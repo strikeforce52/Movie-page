@@ -1,0 +1,62 @@
+html,body {
+background-color: rgb(100, 114, 141)
+}
+
+.border-helper,.char-box {
+    border: 1px solid white;
+}
+
+#content-wrapper {
+    position: relative;
+    width:1200px;
+    margin:0 auto;
+}
+
+#Hiro {
+    position: absolute;
+    z-index: 5;
+    left:250px;
+    top:600px;
+}
+
+#logo {
+    position: absolute;
+    z-index: 6;
+    left:520px;
+    top:1050px;
+}
+
+#baymax {
+    position: absolute;
+    z-index: 3;
+    left:20px;
+    top:400px;
+}
+
+#Layer-5 {
+    position: absolute;
+    z-index: 4;
+    left:-200px;
+    top:300px;
+}
+
+#gogo {
+    position: absolute;
+    z-index: 6;
+    left:-60px;
+    top:600px;
+}
+
+#Layer-2 {
+    position: absolute;
+    z-index: 2;
+    left:700px;
+    top:550px;
+}
+
+#wasabi {
+    position: absolute;
+    z-index: 1;
+    left:700px;
+    top:350px;
+}
