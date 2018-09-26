@@ -1,0 +1,20 @@
+html,body {
+background-color: rgb(100, 114, 141)
+}
+
+.border-helper,.char-box {
+    border: 1px solid white;
+}
+
+#content-wrapper {
+    position: relative;
+    width:1200px;
+    margin:0 auto;
+}
+
+#Hiro {
+    position: absolute;
+    z-index: 6;
+    left:0;
+    top:0;
+}
